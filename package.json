@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/marcmdesigner/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/marcmdesigner/js-tdd-course#readme"
+  "homepage": "https://github.com/marcmdesigner/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^4.13.1"
+  }
 }
