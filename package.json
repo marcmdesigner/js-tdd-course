@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Monteiro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcmdesigner/js-tdd-course.git"
+  },
+  "keywords": [
+    "jd",
+    "tdd",
+    "library"
+  ],
+  "bugs": {
+    "url": "https://github.com/marcmdesigner/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/marcmdesigner/js-tdd-course#readme"
+}
